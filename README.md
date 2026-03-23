@@ -1,4 +1,4 @@
-Customer Shopping Behavior Analysis 🛍️
+Customer Shopping Behaviour Analysis 🛍️
 - An end-to-end data analysis project on 3,900 customer transactions, covering the full pipeline from raw data to interactive dashboard.
 
 1) EDA in Python — Cleaned data using pandas, handled 37 missing values in Review Rating via category-wise median imputation, engineered age_group and purchase_frequency_days features and loaded the cleaned data into MySQL.
